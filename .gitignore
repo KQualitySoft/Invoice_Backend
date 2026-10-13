@@ -1,0 +1,16 @@
+# Visual Studio user files & artifacts
+.vs/
+bin/
+obj/
+*.user
+*.csproj.user
+Visual Studio 2022/
+
+# SQLite databases
+*.db
+*.db-shm
+*.db-wal
+
+# Local environment configuration & secrets
+appsettings.Development.json
+appsettings.Local.json
